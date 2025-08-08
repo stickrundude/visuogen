@@ -1,0 +1,43 @@
+# Python
+*.pyc
+__pycache__/
+*.log
+.env
+venv/
+
+# macOS & IDEs
+.DS_Store
+.vscode/
+.idea/
+
+# FastAPI / Backend
+backend/static/
+*.sqlite3
+*.db
+.allure-results/
+coverage/
+package-lock.json
+
+# React / Frontend
+node_modules/
+build/
+dist/
+.env.local
+.env.development
+.env.production
+public/
+
+# Hugging Face / Model Caches
+~/.cache/huggingface/
+diffusers/
+backend/models/llama
+taming/
+Kandinsky-3/
+diffusers_backup/
+kandinsky-3-new
+kandinsky3-diffusers/
+
+# Documentation / Temp
+docs/
+test.py
+
