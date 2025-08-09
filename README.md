@@ -86,8 +86,7 @@ visuogen/
 │   ├── src/components/
 │   ├── src/pages/
 │   ├── App.js
-│   ├── index.js
-├── models/           ← model files (SDXL, LLaMA, Kandinsky)
+│   ├── index.js 
 ├── requirements.txt
 └── README.md
 ```
